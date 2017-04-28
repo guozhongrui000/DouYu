@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="DanmakuFlameMaster-0.4.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.ctiao/DanmakuFlameMaster/0.4.6/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.ctiao/DanmakuFlameMaster/0.4.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ctiao/DanmakuFlameMaster/0.4.6/47262d207ab0e2f62054c5dcd60408b4bfcc7d6c/DanmakuFlameMaster-0.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

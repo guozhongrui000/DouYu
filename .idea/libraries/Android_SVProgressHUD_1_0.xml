@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Android-SVProgressHUD-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.GaoYin2016/Android-SVProgressHUD/1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.GaoYin2016/Android-SVProgressHUD/1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.GaoYin2016/Android-SVProgressHUD/1.0/3a3fb735b5b7ddca94d398b0f1e387b9c62c4022/Android-SVProgressHUD-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
